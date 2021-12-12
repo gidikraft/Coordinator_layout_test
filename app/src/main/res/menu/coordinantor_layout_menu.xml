@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_one"
+        android:title="menu one"
+        android:icon="@drawable/ic_pages"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_two"
+        android:title="menu two"
+        android:icon="@drawable/ic_pages"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_three"
+        android:title="menu three"
+        android:icon="@drawable/ic_pages"
+        app:showAsAction="never"/>
+</menu>
